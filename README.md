@@ -32,12 +32,13 @@ pkg install python2
 git clone https://github.com/D4RK-C0D3/T_C0D3.git
 ```
 
- >  ### Run code
-
-
 ```
 cd T_C0D3
 ```
+
+> Run code
+
+
 
 ```
 python T_C0D3.py
