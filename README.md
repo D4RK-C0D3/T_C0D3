@@ -2,7 +2,9 @@
 
 <p align="center"> This script helps to the web devolopers to auto creare project directories for their upcoming projects.</p>
 
-<img src="images/T_C0D3.jpg">
+<p align="center">
+   <img src="images/T_C0D3.jpg">
+</p>
 
 # Installation
 
