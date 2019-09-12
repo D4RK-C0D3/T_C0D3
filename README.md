@@ -13,3 +13,27 @@ pkg update
 ```
 pkg upgrade
 ```
+
+```
+pkg install git
+```
+
+```
+pkg install python
+```
+
+```
+pkg install python2
+```
+
+```
+git clone https://github.com/D4RK-C0D3/T_C0D3.git
+```
+
+```
+cd T_C0D3
+```
+
+```
+python T_C0D3.py
+```
