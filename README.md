@@ -37,3 +37,5 @@ cd T_C0D3
 ```
 python T_C0D3.py
 ```
+# About
+   This `script` helps to the `web devolopers` to auto `create project directories` for their upcoming projects.
