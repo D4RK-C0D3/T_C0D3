@@ -9,23 +9,23 @@
 # Installation
 
 ```
-pkg update
+$ apt-get update -y
 ```
 
 ```
-pkg upgrade
+$ apt-get upgrade -y
 ```
 
 ```
-pkg install git
+$ apt-get install git -y
 ```
 
 ```
-pkg install python
+$ apt-get install python -y
 ```
 
 ```
-pkg install python2
+$ apt-get install python3 -y
 ```
 
 ```
