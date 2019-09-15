@@ -8,7 +8,8 @@
 
 ## About T-C0D3 :
 
-      This `script` helps to the `web devolopers` to auto `create project directories` for their upcoming projects.
+  This `script` helps to the `web devolopers` to auto `create project directories` for their upcoming projects.
+
 
 # T_C0D3 is available for
   * Termux
