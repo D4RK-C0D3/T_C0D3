@@ -8,7 +8,11 @@
 
 ## About T-C0D3 :
 
-  This `script` helps to the `web devolopers` to auto `create project directories` for their upcoming projects.
+  This `script` helps to the `web devolopers` to auto `create project directories` for their upcoming projects.It makes project files for you in just oneclick without any `issue` and `without root`. This tool works on both rooted Android device and Non-rooted Android device.You don't have to use internet as it won't requires internet connection for making files.
+  
+  #### NOTE :
+  * For downloading packages will requires internet.
+  * for downloading frameworks & liabries will requires interner.
 
 
 # T_C0D3 is available for
