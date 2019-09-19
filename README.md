@@ -1,7 +1,7 @@
 <h1 align="center">T_C0D3</h1>
 
 <p align="center"> This script helps to the web devolopers to auto creare project directories for their upcoming projects.</p>
-<h1 align="center">this code only works on Android  devices</h1>
+<h1 align="center">this code works only on Android  devices</h1>
 <p align="center">
    <img src="images/T_C0D3.jpg">
 </p>
